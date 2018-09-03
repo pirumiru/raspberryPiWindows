@@ -1,0 +1,9 @@
+1) Log to pi/raspberry
+
+2) sudo rasp-config
+	a) Expand Filesystem
+	b) Passer le clavier en francais
+	c) Changer le mdp
+	d) Activer SSH
+
+3) sudo apt-get update && sudo apt-get upgrade
